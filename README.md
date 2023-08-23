@@ -11,7 +11,7 @@ Features
 
 Installation and Setup
 
-Clone the repository to your local machine.
-git clone https://github.com/your-username/react-todo-list.git
-cd react-todo-list
-npm install
+    Clone the repository to your local machine.
+    git clone https://github.com/your-username/react-todo-list.git
+    cd react-todo-list
+    npm install
