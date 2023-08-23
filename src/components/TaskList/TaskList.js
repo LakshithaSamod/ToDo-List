@@ -6,7 +6,7 @@ import {
   updateTodoCompleteStatus,
   updateTodoName,
   deleteTodo,
-} from "../TaskAPIs/TaskAPI"; // Import your API functions
+} from "../TaskAPIs/TaskAPI";
 import LoadingUI from "../UI/LoadingUI";
 
 const TaskList = () => {
