@@ -1,5 +1,5 @@
 import React, { useState, useEffect, createContext } from "react";
-import { fetchTodos } from "../TaskAPIs/TaskAPI"; // Import the fetchTodos function
+import { fetchTodos } from "../TaskAPIs/TaskAPI";
 
 export const DataContext = createContext();
 

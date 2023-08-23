@@ -2,7 +2,7 @@ import React, { useState, useContext, useRef, useEffect } from "react";
 import { DataContext } from "../Store/DataProvider";
 import LoadingUI from "../UI/LoadingUI";
 import TaskForm from "./TaskForm";
-import { addTask } from "../TaskAPIs/TaskAPI"; // Import the addTask function from TaskApi
+import { addTask } from "../TaskAPIs/TaskAPI";
 
 const AddTodoPopUp = ({ open, onClose }) => {
   const [todos, setTodos] = useContext(DataContext);

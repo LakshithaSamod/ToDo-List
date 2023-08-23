@@ -8,3 +8,10 @@ Features
     Mark tasks as complete or incomplete.
     Edit task names.
     Delete tasks from the list.
+
+Installation and Setup
+
+Clone the repository to your local machine.
+git clone https://github.com/your-username/react-todo-list.git
+cd react-todo-list
+npm install
